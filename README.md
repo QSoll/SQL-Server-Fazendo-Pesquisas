@@ -59,9 +59,11 @@ FROM Filmes
 
 SELECT
 
-        Nome,
-	
- 	Ano
+	Nome,
+ 
+	Ano,
+ 
+	Duracao
  
 FROM Filmes
 
