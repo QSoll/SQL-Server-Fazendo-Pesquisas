@@ -1,5 +1,4 @@
-# DIO - Trilha .NET - Banco de Dados
-www.dio.me
+## Bootcamp <a href="https://www.dio.me/" target= "_blank" ><img src="https://solmorcillo.com.br/imgs_public/logo_dio.jpg" width="55 px" height="40"> e <a href="https://www.wexinc.com/pt-br/" target= "_blank"><img src="https://solmorcillo.com.br/imgs_public/logo_wex.jpg" width="55 px" height="40"></a> - Trilha .NET - Banco de Dados
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
@@ -90,3 +89,8 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+
+*Respostas: respostas-dos-exercicios.pdf*
+
+<a href="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" title="Website Sol Morcillo" target="_blank"><img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="120" height="160"></a>
